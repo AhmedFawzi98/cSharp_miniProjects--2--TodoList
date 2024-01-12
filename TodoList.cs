@@ -9,7 +9,7 @@ namespace TodoList
     {
         static void Main(string[] args)
         {
-            List<string> todoList = new List<string>();
+            List<string> todoList = new List<string>(); //whyyyyyy
             bool isRunning = true;
             do
             {
